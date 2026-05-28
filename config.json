@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercalculate",
+        "uuid": 35617889,
+        "checksum": "jrokpi"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
